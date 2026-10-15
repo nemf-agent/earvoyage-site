@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.earvoyage.app",
+      "sha256_cert_fingerprints": [
+        "03:43:F1:D0:A2:27:FC:98:39:6D:92:5E:38:D0:CD:8D:88:40:37:F9:19:A4:5E:1A:AB:88:FF:A0:68:7B:BB:7A"
+      ]
+    }
+  }
+]
